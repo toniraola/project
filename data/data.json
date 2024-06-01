@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Back to the Future",
+        "year": 1985,
+        "director": "Robert Zemeckis",
+        "actors": [
+            "Michael J. Fox",
+            "Christopher Lloyd"
+        ],
+        "image": "images/movie1.jpg"
+    },
+    {
+        "name": "The Terminator",
+        "year": 1984,
+        "director": "James Cameron",
+        "actors": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton"
+        ],
+        "image": "images/movie2.jpg"
+    },
+    {
+        "name": "Die Hard",
+        "year": 1988,
+        "director": "John McTiernan",
+        "actors": [
+            "Bruce Willis",
+            "Alan Rickman"
+        ],
+        "image": "images/movie3.jpg"
+    },
+    {
+        "name": "Indiana Jones and the Raiders of the Lost Ark",
+        "year": 1981,
+        "director": "Steven Spielberg",
+        "actors": [
+            "Harrison Ford",
+            "Karen Allen"
+        ],
+        "image": "images/movie4.jpg"
+    },
+    {
+        "name": "The Breakfast Club",
+        "year": 1985,
+        "director": "John Hughes",
+        "actors": [
+            "Emilio Estevez",
+            "Molly Ringwald"
+        ],
+        "image": "images/movie5.jpg"
+    },
+    {
+        "name": "Ghostbusters",
+        "year": 1984,
+        "director": "Ivan Reitman",
+        "actors": [
+            "Bill Murray",
+            "Dan Aykroyd"
+        ],
+        "image": "images/movie6.jpg"
+    },
+    {
+        "name": "E.T. the Extra-Terrestrial",
+        "year": 1982,
+        "director": "Steven Spielberg",
+        "actors": [
+            "Henry Thomas",
+            "Drew Barrymore"
+        ],
+        "image": "images/movie7.jpg"
+    },
+    {
+        "name": "Top Gun",
+        "year": 1986,
+        "director": "Tony Scott",
+        "actors": [
+            "Tom Cruise",
+            "Kelly McGillis"
+        ],
+        "image": "images/movie8.jpg"
+    },
+    {
+        "name": "The Princess Bride",
+        "year": 1987,
+        "director": "Rob Reiner",
+        "actors": [
+            "Cary Elwes",
+            "Robin Wright"
+        ],
+        "image": "images/movie9.jpg"
+    },
+    {
+        "name": "Jurassic Park",
+        "year": 1993,
+        "director": "Steven Spielberg",
+        "actors": [
+            "Sam Neill",
+            "Laura Dern"
+        ],
+        "image": "images/movie10.jpg"
+    },
+    {
+        "name": "Pulp Fiction",
+        "year": 1994,
+        "director": "Quentin Tarantino",
+        "actors": [
+            "John Travolta",
+            "Uma Thurman"
+        ],
+        "image": "images/movie11.jpg"
+    },
+    {
+        "name": "The Shawshank Redemption",
+        "year": 1994,
+        "director": "Frank Darabont",
+        "actors": [
+            "Tim Robbins",
+            "Morgan Freeman"
+        ],
+        "image": "images/movie12.jpg"
+    },
+    {
+        "name": "Forrest Gump",
+        "year": 1994,
+        "director": "Robert Zemeckis",
+        "actors": [
+            "Tom Hanks",
+            "Robin Wright"
+        ],
+        "image": "images/movie13.jpg"
+    },
+    {
+        "name": "Goodfellas",
+        "year": 1990,
+        "director": "Martin Scorsese",
+        "actors": [
+            "Robert De Niro",
+            "Ray Liotta"
+        ],
+        "image": "images/movie14.jpg"
+    },
+    {
+        "name": "Home Alone",
+        "year": 1990,
+        "director": "Chris Columbus",
+        "actors": [
+            "Macaulay Culkin",
+            "Joe Pesci"
+        ],
+        "image": "images/movie15.jpg"
+    },
+    {
+        "name": "The Matrix",
+        "year": 1999,
+        "director": "The Wachowskis",
+        "actors": [
+            "Keanu Reeves",
+            "Laurence Fishburne"
+        ],
+        "image": "images/movie16.jpg"
+    },
+    {
+        "name": "The Goonies",
+        "year": 1985,
+        "director": "Richard Donner",
+        "actors": [
+            "Sean Astin",
+            "Josh Brolin"
+        ],
+        "image": "images/movie17.jpg"
+    },
+    {
+        "name": "Scarface",
+        "year": 1983,
+        "director": "Brian De Palma",
+        "actors": [
+            "Al Pacino",
+            "Michelle Pfeiffer"
+        ],
+        "image": "images/movie18.jpg"
+    },
+    {
+        "name": "The Empire Strikes Back",
+        "year": 1980,
+        "director": "Irvin Kershner",
+        "actors": [
+            "Mark Hamill",
+            "Harrison Ford"
+        ],
+        "image": "images/movie19.jpg"
+    },
+    {
+        "name": "The Terminator 2: Judgment Day",
+        "year": 1991,
+        "director": "James Cameron",
+        "actors": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton"
+        ],
+        "image": "images/movie20.jpg"
+    },
+    {
+        "name": "Blade Runner",
+        "year": 1982,
+        "director": "Ridley Scott",
+        "actors": [
+            "Harrison Ford",
+            "Rutger Hauer"
+        ],
+        "image": "images/movie21.jpg"
+    },
+    {
+        "name": "Raiders of the Lost Ark",
+        "year": 1981,
+        "director": "Steven Spielberg",
+        "actors": [
+            "Harrison Ford",
+            "Karen Allen"
+        ],
+        "image": "images/movie22.jpg"
+    },
+    {
+        "name": "The Shining",
+        "year": 1980,
+        "director": "Stanley Kubrick",
+        "actors": [
+            "Jack Nicholson",
+            "Shelley Duvall"
+        ],
+        "image": "images/movie23.jpg"
+    },
+    {
+        "name": "Aliens",
+        "year": 1986,
+        "director": "James Cameron",
+        "actors": [
+            "Sigourney Weaver",
+            "Michael Biehn"
+        ],
+        "image": "images/movie24.jpg"
+    },
+    {
+        "name": "The Silence of the Lambs",
+        "year": 1991,
+        "director": "Jonathan Demme",
+        "actors": [
+            "Jodie Foster",
+            "Anthony Hopkins"
+        ],
+        "image": "images/movie25.jpg"
+    },
+    {
+        "name": "The Lion King",
+        "year": 1994,
+        "director": "Roger Allers, Rob Minkoff",
+        "actors": [
+            "Matthew Broderick",
+            "Jeremy Irons"
+        ],
+        "image": "images/movie26.jpg"
+    },
+    {
+        "name": "Toy Story",
+        "year": 1995,
+        "director": "John Lasseter",
+        "actors": [
+            "Tom Hanks",
+            "Tim Allen"
+        ],
+        "image": "images/movie27.jpg"
+    },
+    {
+        "name": "Ferris Bueller's Day Off",
+        "year": 1986,
+        "director": "John Hughes",
+        "actors": [
+            "Matthew Broderick",
+            "Alan Ruck"
+        ],
+        "image": "images/movie28.jpg"
+    },
+    {
+        "name": "The Blues Brothers",
+        "year": 1980,
+        "director": "John Landis",
+        "actors": [
+            "John Belushi",
+            "Dan Aykroyd"
+        ],
+        "image": "images/movie29.jpg"
+    },
+    {
+        "name": "Dirty Dancing",
+        "year": 1987,
+        "director": "Emile Ardolino",
+        "actors": [
+            "Patrick Swayze",
+            "Jennifer Grey"
+        ],
+        "image": "images/movie30.jpg"
+    }
+]
